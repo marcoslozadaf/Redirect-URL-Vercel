@@ -1,4 +1,4 @@
-This repository creates a NEXT.js project in Vercel that allows you to redirect to a URL of your interest. In this way, a domain like "marcoslozada.com" can point to a link, like your LinkedIn profile for eg.
+This repository creates a NEXT.js project in Vercel that allows you to redirect to a URL of your interest. In this way, a domain like "marcoslozada.com" can point to a link, like your LinkedIn profile for e.g.
 
 Your URL eg: https://www.marcoslozada.com, https://www.linkedin.com/in/marcoslozadafreytes/, https://x.com/marcoslozadaf, etc.
 
